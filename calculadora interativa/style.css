@@ -1,0 +1,30 @@
+body {
+    background-color: #022F40;
+}
+p {
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.interface {
+    background-color: #38AECC;
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+    border-color: 2px #2c8aa1;
+    border-radius: 5px;
+    text-align: center;
+    padding-bottom: 20px;
+    box-shadow: 0 2px 6px 0 black;
+}
+h1 {
+    color: aliceblue;
+    size: 20px;
+    text-align: center;
+}
+.butao {
+    border-radius: 5px;
+    margin-top: 10px;
+    border: none;
+    padding: 6px 8px 8px 6px;
+    text-align: center;
+}
